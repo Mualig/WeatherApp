@@ -1,0 +1,13 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "App du cours udemy Async",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mual",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

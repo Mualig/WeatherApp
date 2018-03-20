@@ -1,4 +1,4 @@
-const request = require ('request');
+const request = require('request');
 const config = require('../config/config.json');
 
 let geocodeAddress = (address, callback) => {
